@@ -47,21 +47,17 @@ nav li{
      padding-right: 10px;
 }
 
-.main-site{
+.main-site {
     height: 100vh;
-    background-size: cover;
-    background-position: right bottom;
-    
-}
-.name-site {
     display: flex;
     justify-content: center;
-    height: 200px;
-    color: black;
-    width: 500px;
-    font-size: 30px;    
+    align-items: center;
 }
-
+.name-site {
+    color: black;
+    font-size: 150px;
+    
+}
 /*
     
     display: flex;
